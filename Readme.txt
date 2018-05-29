@@ -1,5 +1,0 @@
-This repository contains parts 1 and 2 of the final project for the Relational Database Design and SQL Programming online course through UCSC Extension. Part 1 of the project contains an entity-relationship diagram, along with a write up. Part 2 of the project contains several scripts for creating a database, and retrieving, updating, and deleting data. These scripts are written in the MySQL language.
-
-In this project an imaginary company called Names Inc. wants to implement a relational database to support their operations. The company’s overall mission is to maintain a list of commonly used names for places, as an asset for map makers, location based services, and intelligence services.
-
-Please let me know if you find any error. Also, I am open to suggestions. Thank you for looking at my project.
